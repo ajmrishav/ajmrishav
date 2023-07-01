@@ -1,6 +1,6 @@
   :rocket: ABOUT ME 
 - 👋 Hi, I’m @ajmrishav
-- 👀 I’m interested in Android Development
+- 👀 I have also worked as an Android Developer.
 - 🌱 I’m currently learning Full Stack Development
 - :technologist:	Java , Angular , Hibernate , Spring Boot ,Apache Kylin , Hive
 
