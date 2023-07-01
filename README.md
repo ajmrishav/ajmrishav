@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @ajmrishav
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Full Stack Development
+- :technologist:	Java , Angular , Hibernate , Spring Boot ,Apache Kylin , Hive
 
 
 
