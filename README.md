@@ -1,8 +1,9 @@
   :rocket: ABOUT ME 
-- 👋 Hi, I’m @ajmrishav
-- 👀 I have also worked as an Android Developer.
-- 🌱 I’m currently learning Full Stack Development
-- :technologist: <div align="center">
+- 👋 Hello , Thanks for visiting my profile . 
+- 👀 I have worked as an Android Developer intern at a Startup .
+- 🌱 I’m currently a full Stack developer
+- 
+- :technologist: The languages,frameworks and tools on which I have worked are <div align="center">
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
