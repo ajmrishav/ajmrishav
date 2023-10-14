@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills and other soft skills**
 
-- 🌱 I’m currently learning **Spring Boot , Java , Angular and DSA**
+- 🌱 I’m currently learning **Spring Boot , Java , Angular and Problem Solving Skills**
 
 - 👯 I’m looking to collaborate on **Backend Project or Full Stack Projects**
 
