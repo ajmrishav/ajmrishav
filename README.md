@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajmrishav" alt="ajmrishav" /></a> </p>
 
-- 🔭 I’m currently working on **enhancing my skills and other soft skills**
+- 🔭 I’m interested in **Backend Development**
 
-- 🌱 I’m currently learning **Spring Boot , Java , Angular and Problem Solving Skills**
+- 🌱 I’m  proficient in **Spring Boot , Java , Angular,Hibernate,SQL and Problem Solving Skills**
 
-- 👯 I’m looking to collaborate on **Backend Project or Full Stack Projects**
+- 👯 I’m looking to collaborate on **Backend Project and interested in  Open Source Projects**
 
 - 💬 Ask me about **Java ,Spring Boot , Angular,C++**
 
