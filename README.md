@@ -4,10 +4,9 @@ I am a passionate **Backend Developer** and a curious **Tinkerer** with over **2
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning backend development and messaging queue].
-- 👯 I’m looking to collaborate on [projects related to backend development and data engineering].
+- 🌱 I’m currently learning backend development and messaging queue.
+- 👯 I’m looking to collaborate on projects related to backend development and data engineering.
 - 💬 Ask me about [backend development and data structures and Algorithms].
-@@ -15,28 +15,20 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 Here are some of the technologies and tools I work with:
 
